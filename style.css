@@ -1,0 +1,102 @@
+.box{
+    background-color:#051836;
+    margin:50px 50px 50px 30px;
+    border: 5px solid #020d21;
+   
+}
+.heading{
+    margin-top: 40px;
+ text-align: center;
+    font-family:cursive;
+}
+
+.seats{
+    margin-top: 40px;
+    margin-bottom: 10px;
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+.smallbox{
+    background-color: #da9c00;
+  
+   height: 550px;
+    margin:50px 50px 60px 50px;
+    border: 5px solid #3d2c00;
+   
+}
+
+.pic{ 
+  
+    position: relative;top:50px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+
+}
+.writings{
+
+}
+.namez{
+   
+    display: flex;
+    justify-content: right;
+    position: relative;bottom:380px;right: 70px;
+    
+    
+}
+
+.em{
+    margin-top:10px;
+    display: flex;
+    justify-content: right;
+   position: relative;bottom:380px;right: 70px;
+}
+.ph{
+    margin-top: 10px;
+    display: flex;
+    justify-content: right;
+    position: relative;bottom:380px;right: 70px;   
+}
+.nos{
+    margin-top: 10px;
+    display: flex;
+    justify-content: right;
+    position: relative;bottom:380px;right: 402px;  
+}
+
+.sec{
+    margin-top: 10px;
+    display: flex;
+    justify-content: right;
+    position: relative;bottom:370px;right: 70px;  
+
+}
+
+.sub{
+
+    
+}
+
+.can{
+    margin-top: 30px;
+   
+}
+
+#submitbutton{    
+    width:230px;height:50px; font-size:25px;border:3px solid #555;
+        border-radius: 2px;color:#051836;font-family: Georgia, 'Times New Roman', Times, serif;margin-top: 30px;
+}
+
+#cancel{
+    width:230px;height:50px; font-size:25px;border:3px solid #555;
+        border-radius: 2px;  
+    color: #051836;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+input{
+    color: #051836;
+ 
+}
